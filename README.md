@@ -5,11 +5,11 @@ Python code for ENCE 662 HW2 Triangular Distribution for SFI Case Study #2
 
 ### Install Required Packages
 
-- Open command prompt as an administrator
+- On Windows OS, open command prompt as an administrator and run the following:
 
 ```pip install -r requirements.txt```
 
-- On * nix OS
+- On * nix OS, open a terminal and run the following:
 
 ```sudo pip install -r requirements.txt```
 
